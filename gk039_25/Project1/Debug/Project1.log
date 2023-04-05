@@ -1,0 +1,5 @@
+﻿  Program.cpp
+D:\University shit\ProektInformatika\Project1\Project1\Program.cpp(25,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University shit\ProektInformatika\Project1\Project1\Program.cpp(30,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University shit\ProektInformatika\Project1\Project1\Program.cpp(8,6): warning C4101: 'M': unreferenced local variable
+D:\University shit\ProektInformatika\Project1\Project1\Program.cpp(7,22): warning C4101: 'M3': unreferenced local variable
